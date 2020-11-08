@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/RayBB/GamingTheArchivesSampleData/main/Chinese%20Arrivals/1847-1870/JPG/ChineseArrivals_1847-1870_00000.jpg
 https://raw.githubusercontent.com/RayBB/GamingTheArchivesSampleData/main/Chinese%20Arrivals/1847-1870/JPG/ChineseArrivals_1847-1870_00001.jpg
 https://raw.githubusercontent.com/RayBB/GamingTheArchivesSampleData/main/Chinese%20Arrivals/1847-1870/JPG/ChineseArrivals_1847-1870_00002.jpg
 https://raw.githubusercontent.com/RayBB/GamingTheArchivesSampleData/main/Chinese%20Arrivals/1847-1870/JPG/ChineseArrivals_1847-1870_00003.jpg
