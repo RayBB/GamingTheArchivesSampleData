@@ -2,6 +2,8 @@
 
 Sample data for https://github.com/HACC2020/GamingTheArchives
 
+## Chinese Arrivals
+[list here](./Chinese%20Arrivals/urls.txt)
 
 ## Coffee Links
 ```
